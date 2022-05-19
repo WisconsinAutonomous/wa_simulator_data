@@ -4,6 +4,6 @@
 	"Template": "WASimpleEnvironment",
 
 	"Track": {
-		"Track Input File": "tracks/sample_medium_loop.json"
+		"Track Input File": "tracks/ev_grand_prix.json"
 	}
 }

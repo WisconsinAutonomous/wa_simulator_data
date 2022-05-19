@@ -16,7 +16,7 @@
 			"Object": {
 				"Size": [0.2, 1.5, 0.01],
 				"Color": [1, 1, 1],
-				"Mode": "Solid"
+				"Mode": "Dashed"
 			}
 		},
 		"Left":{
@@ -24,7 +24,7 @@
 			"Object": {
 				"Size": [0.2, 1.5, 0.01],
 				"Color": [1, 1, 1],
-				"Mode": "Solid"
+				"Mode": "Dashed"
 			}
 		}
 	}
